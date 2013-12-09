@@ -1,6 +1,4 @@
-require 'debugger'
 class Compliment
-  attr_reader :message
 
   MESSAGES = [
     "Who did your hair? It's never looked better.",
@@ -20,8 +18,6 @@ class Compliment
       @images << file[6..-1]
     end
     @images.sample
-    # debugger
-    # puts 'hi'
   end
 
 end
