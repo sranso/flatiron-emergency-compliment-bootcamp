@@ -2,13 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     bond (0.4.3)
-    columnize (0.3.6)
-    debugger (1.6.2)
-      columnize (>= 0.3.1)
-      debugger-linecache (~> 1.2.0)
-      debugger-ruby_core_source (~> 1.2.3)
-    debugger-linecache (1.2.0)
-    debugger-ruby_core_source (1.2.4)
+    bootstrap (0.0.1)
     rack (1.5.2)
     rack-protection (1.5.1)
       rack
@@ -39,7 +33,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  debugger
+  bootstrap
   shotgun
   sinatra
   tux
