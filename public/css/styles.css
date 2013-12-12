@@ -26,10 +26,34 @@
   color: white;
   background-color: #D398FB;
 }
-
-/*body {
+.color8 {
   color: white;
-}*/
+  background-color: #FF99CC;
+}
+.color9 {
+  color: white;
+  background-color: #99CCFF;
+}
+.color10 {
+  color: white;
+  background-color: #9999CC;
+}
+.color11 {
+  color: white;
+  background-color: #6666CC;
+}
+.color12 {
+  color: white;
+  background-color: #33FFCC;
+}
+.color13 {
+  color: white;
+  background-color: #33CC99;
+}
+.color14 {
+  color: white;
+  background-color: #009933;
+}
 #title {
   padding-top: 12px;
   padding-bottom: 12px;
