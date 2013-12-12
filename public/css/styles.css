@@ -77,6 +77,7 @@ h1 {
 }
 h3 {
   font-family: 'Source Sans Pro', sans-serif;
+  line-height: 1.1;
 }
 .img {
   display: block;
@@ -86,14 +87,11 @@ h3 a {
   color: white;
   font-size: 35px;
 }
-h3 br {
-  line-height: 0.3px;
-}
 #hug {
-  margin: 20px;
+  margin: 30px;
 }
 #hug a {
-  padding: 10px;
+  padding: 10px 15px 10px 15px;
   background-color: rgba(255,255,255,.3);
   border-radius: 30px;
 }
