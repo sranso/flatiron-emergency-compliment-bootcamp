@@ -5,7 +5,7 @@ Bundler.require
 
 class EmergencyCompliments < Sinatra::Application
 
-  get '/compliments' do
+  get '/' do
     @compliment = Compliment.new
     @color = Color.new
     erb :compliment

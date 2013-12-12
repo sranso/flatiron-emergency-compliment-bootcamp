@@ -19,12 +19,4 @@ class Compliment
     MESSAGES.sample
   end
 
-  # def image
-  #   @images = []
-  #   Dir["public/img/*"].each do |file|
-  #     @images << file[6..-1]
-  #   end
-  #   @images.sample
-  # end
-
 end
