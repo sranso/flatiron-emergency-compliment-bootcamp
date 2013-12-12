@@ -2,7 +2,7 @@ class Compliment
 
   def message
     @messages = []
-    File.readlines('./public/compliments.txt').each do |line|
+    File.readlines('./public/compliments.html').each do |line|
       @messages << line
     end
     @messages.sample
